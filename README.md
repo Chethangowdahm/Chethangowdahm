@@ -8,7 +8,7 @@
 
 <h1>
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello,+There!+👋;This+is+Manish+Yadav...." alt="Welcome Text">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello,+There!+👋;This+is+chethan...." alt="Welcome Text">
   </a>
 </h1>
 <h3 align="left">📈 GitHub Stats</h3>
