@@ -62,15 +62,6 @@ Results-driven **Senior DevOps / SRE Engineer** with **6 years** of experience d
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-## 📈 GitHub Stats
-
-![Chethan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chethangowdahm&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chethangowdahm&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chethangowdahm&layout=compact&theme=dark&hide_border=true)
 
 ---
 
