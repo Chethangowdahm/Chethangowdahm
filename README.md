@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-Results-driven **Senior DevOps / SRE Engineer** with **6+ years** of experience designing, automating, and maintaining scalable cloud infrastructure and CI/CD pipelines. Passionate about platform reliability, deployment automation, and leveraging AI-assisted engineering tools to boost productivity.
+Results-driven **Senior DevOps / SRE Engineer** with **6 years** of experience designing, automating, and maintaining scalable cloud infrastructure and CI/CD pipelines. Passionate about platform reliability, deployment automation, and leveraging AI-assisted engineering tools to boost productivity.
 
 - 🔭 Currently working at **Vendasta Technologies** as a Senior SRE
 - 🌩️ Deep expertise in **AWS**, **GCP**, **Kubernetes (EKS/GKE)**, **Terraform**, and **ArgoCD**
@@ -86,7 +86,7 @@ Results-driven **Senior DevOps / SRE Engineer** with **6+ years** of experience 
 
 ## 🎯 Key Highlights
 
-- 6+ years across **DevOps, SRE, cloud infrastructure**, and platform operations
+- 6 years across **DevOps, SRE, cloud infrastructure**, and platform operations
 - Strong hands-on expertise in **AWS, GCP, Kubernetes, Terraform, CI/CD**, and **GitOps**
 - Production experience with **Argo Rollouts** blue-green deployments for safer release management
 - Exposure to **SOC 2**-aligned security and compliance practices in Kubernetes environments
